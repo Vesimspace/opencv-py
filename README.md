@@ -1,1 +1,1 @@
-# opencv-py
+Python OpenCV object tracking and detection project.(DNN)
